@@ -1,1 +1,4 @@
-this is a repo that I will be commiting my leetcode solutions to.
+this is a repo that I will be commiting my leetcode solutions.
+(SOLO) means solved without using any hints
+(N-M) solution is NOT MINE
+
